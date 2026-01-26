@@ -13,6 +13,12 @@ Converted the low-fidelity wireframes into a high-fidelity UI design for a book 
 
 Tool Used: Figma
 
+Task 4: Mini Project – Interactive Prototype
+
+Designed a complete interactive prototype for a book e-commerce website, connecting all key screens to demonstrate the full user journey. The prototype includes navigation between homepage, book listings, book details, cart, and checkout pages, allowing users to experience the flow of the website. Created using Figma to showcase real-time interactions and usability.
+
+Tool Used: Figma
+
 figma prototypy: https://www.figma.com/proto/vRNVVlS7E9Ui0KoFzvZ2Y4/Untitled?node-id=1-2&p=f&t=OEHvnjsfrpgmkitC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
 
 
